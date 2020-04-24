@@ -11,8 +11,8 @@ jobs:
     steps:
       - uses: danhellem/github-actions-issue-to-work-item@master
         env:
-          ado_token: "${{ secrets.ADO_PERSONAL_ACCESS_TOKEN }}"
-          github_token: "${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}"
+          ado_token: "auz7grbxwoufmdqzpvsgsauyaq6spiridqkzdudcp4enpmkq3dbq"
+          github_token: "7upl2qsco2ynays4rilio2ycuf2f644kija2orqv2udrebxkzxba"
           ado_organization: "ado_organization_name"
           ado_project: "Support"
           ado_area_path: "Support"
