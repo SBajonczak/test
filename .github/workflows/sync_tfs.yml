@@ -15,7 +15,7 @@ jobs:
           github_token: "${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}"
           ado_organization: "RealCoreSupport"
           ado_project: "Support"
-          ado_wit: "User Story"
+          ado_wit: "Impediment"
           ado_new_state: "New"
           ado_close_state: "Closed"
           ado_bypassrules: true
